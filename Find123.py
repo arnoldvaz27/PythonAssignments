@@ -22,6 +22,7 @@ def array123(array):
         else:
             return False
 
+
 print(array123([1, 1, 2, 3, 1]))
 print(array123([1, 1, 2, 4, 1]))
 print(array123([1, 1, 2, 1, 2, 3]))
