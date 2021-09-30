@@ -21,6 +21,7 @@ for the_num in [9, 41, 12, 3, 74, 15]:
 
 print(smallest_so_far)
 """
+"""
 n = 0
 
 while n > 0:
@@ -28,3 +29,8 @@ while n > 0:
     print('Plan')
 
 print('B!')
+"""
+
+s = "Arnold"
+a = s.split()
+print(a)
