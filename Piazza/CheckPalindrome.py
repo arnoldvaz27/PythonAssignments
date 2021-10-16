@@ -7,7 +7,7 @@ INPUT:151
 
 OUTPUT:The number is a palindrome!
 
-week 9/19 to 9/25
+
 """
 
 
