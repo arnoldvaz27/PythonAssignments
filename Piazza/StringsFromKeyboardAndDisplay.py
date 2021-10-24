@@ -17,7 +17,6 @@ The number of digits: 2
 
 The number of whitespace characters: 5
 
-remaining - week 9/19 to 9/25 ( 9/22/21 and 9/19/21)
 
 """
 
